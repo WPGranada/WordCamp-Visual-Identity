@@ -1,4 +1,4 @@
 # Wordcamp-visual-identity
 Visual identity and Style guides
 
-This directory include all the visual material related to Wordcamp Granada 2018
+This directory includes all the visual material related to WordCamp Granada 2018.
