@@ -1,4 +1,7 @@
 # WordCamp-Visual-Identity
-Visual identity and Style guides
 
-This directory includes all the visual material related to WordCamp Granada 2018.
+Guías de Estilo y Diseño Gráfico de la WordCamp Granada 2019.
+
+## Diseñadoras
+- Cecilia Pastorino
+- Lorena 
